@@ -16,6 +16,9 @@ Wireframe a single-page application for a recipe website. Your page should have:
 
 Think about how your design could be broken down into reusable components and highlight these on the wireframe. These could be quite abstract, for example a sign-up form and a submission form might have some overlap in functionality and might not need their own components. Use a tool like Excalidraw (for example) for show and tell purposes!
 
+![Wireframe](/public/images/wireframe.png)
+
+
 ### Part 2:
 
 Create a new React app to practise making components. For each bullet point make a component and implement the required functionality there.
